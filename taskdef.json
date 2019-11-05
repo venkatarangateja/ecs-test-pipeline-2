@@ -15,7 +15,7 @@
           "essential": true
       }
   ],
-  "family": "Ecs-Test-Pipeline-2",
+  "family": "teja-task",
   "networkMode": "awsvpc",
   "requiresCompatibilities": [
       "FARGATE"
