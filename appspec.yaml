@@ -5,5 +5,5 @@ Resources:
       Properties:
         TaskDefinition: <TASK_DEFINITION>
         LoadBalancerInfo:
-          ContainerName: Ecs-Task-Pipeline-2
+          ContainerName: app
           ContainerPort: 8080
