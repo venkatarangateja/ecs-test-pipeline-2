@@ -15,7 +15,7 @@
           "essential": true
       }
   ],
-  "family": "codedeploy-taskdefination",
+  "family": "Ecs-Test-Pipeline-2",
   "networkMode": "awsvpc",
   "requiresCompatibilities": [
       "FARGATE"
